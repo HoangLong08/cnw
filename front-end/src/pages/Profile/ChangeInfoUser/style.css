@@ -1,0 +1,118 @@
+.left-wrap-info,
+.right-wrap-info {
+  margin: 0 auto;
+  width: 100%;
+}
+
+.right-wrap-info label {
+  display: inline-block;
+  margin-bottom: 8px;
+}
+
+.form-groups select {
+  padding: 8px 16px;
+  width: 300px;
+
+  display: block;
+  line-height: 25px;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: inherit;
+  border-radius: 6px;
+  border: 1px solid #cdd9ed;
+  transition: border 0.3s ease;
+}
+
+.form-groups select:focus {
+  outline: none;
+  border-color: #4370f8;
+}
+
+.btn-logout {
+  padding: 12px;
+  background-color: #777474;
+  color: white;
+  font-weight: bold;
+  border: none;
+  cursor: pointer;
+}
+
+.btn-logout:hover {
+  background-color: #5f5757;
+}
+
+.info-image {
+  position: relative;
+  text-align: center;
+}
+
+.info-image img {
+  width: 320px;
+  height: 320px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.upload-btn-wrapper {
+  position: absolute;
+  right: 100px;
+  bottom: 0;
+  cursor: pointer;
+}
+
+.btn {
+  cursor: pointer;
+  border: 2px solid gray;
+  color: gray;
+  background-color: white;
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.btn .fas {
+  font-size: 32px;
+  cursor: pointer;
+}
+
+.upload-btn-wrapper input[type="file"] {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  opacity: 0;
+  width: 100%;
+  height: 100%;
+  font-size: 32px;
+  cursor: pointer;
+}
+
+.info-name,
+.info-button {
+  text-align: center;
+}
+
+.info-name {
+  margin: 12px 0;
+  font-size: 20px;
+}
+
+.content-button-info {
+  margin-top: 12px;
+  text-align: center;
+}
+
+.content-button-info .button-info {
+  width: 80%;
+  padding: 12px;
+  background-color: #777474;
+  color: white;
+  font-weight: bold;
+  border: none;
+  cursor: pointer;
+}
+
+.content-button-info .button-info:hover {
+  background-color: #5f5757;
+}

@@ -1,0 +1,151 @@
+Date : 2021-07-04 03:23:48
+Directory : d:\CONG_NGHE_WEB\BTProject\front-end\src
+Total : 82 files,  6520 codes, 44 comments, 787 blanks, all 7351 lines
+
+Languages
++------------------+------------+------------+------------+------------+------------+
+| language         | files      | code       | comment    | blank      | total      |
++------------------+------------+------------+------------+------------+------------+
+| JavaScript React |         24 |      3,318 |         11 |        326 |      3,655 |
+| JavaScript       |         32 |      1,832 |         29 |        189 |      2,050 |
+| CSS              |         25 |      1,369 |          4 |        272 |      1,645 |
+| XML              |          1 |          1 |          0 |          0 |          1 |
++------------------+------------+------------+------------+------------+------------+
+
+Directories
++--------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                 | files      | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                    |         82 |      6,520 |         44 |        787 |      7,351 |
+| constants                                                                            |          1 |          1 |          0 |          0 |          1 |
+| pages                                                                                |         47 |      4,627 |         13 |        583 |      5,223 |
+| pages\Admin                                                                          |         15 |        638 |          4 |         99 |        741 |
+| pages\Admin\Common                                                                   |          5 |        294 |          2 |         47 |        343 |
+| pages\Admin\Common\Header                                                            |          2 |        196 |          2 |         35 |        233 |
+| pages\Admin\Common\SideBar                                                           |          2 |         61 |          0 |         11 |         72 |
+| pages\Admin\Common\SideBarContent                                                    |          1 |         37 |          0 |          1 |         38 |
+| pages\Admin\Dashboard                                                                |          2 |         16 |          0 |          4 |         20 |
+| pages\Admin\LoginAdmin                                                               |          2 |        172 |          0 |         25 |        197 |
+| pages\Admin\ManagerOrderHistories                                                    |          2 |         16 |          1 |          4 |         21 |
+| pages\Admin\ManagerProducts                                                          |          2 |        107 |          1 |         14 |        122 |
+| pages\Admin\ManagerUser                                                              |          2 |         33 |          0 |          5 |         38 |
+| pages\Cart                                                                           |          2 |        354 |          0 |         31 |        385 |
+| pages\ForgotPassword                                                                 |          2 |        407 |          1 |         51 |        459 |
+| pages\Home                                                                           |          2 |        253 |          2 |         28 |        283 |
+| pages\Login                                                                          |          2 |        177 |          0 |         27 |        204 |
+| pages\OrderSuccess                                                                   |          2 |         42 |          0 |          8 |         50 |
+| pages\Payment                                                                        |          2 |        541 |          3 |         62 |        606 |
+| pages\ProductDetail                                                                  |          2 |        499 |          0 |         59 |        558 |
+| pages\Profile                                                                        |          8 |        835 |          1 |         98 |        934 |
+| pages\Profile\ChangeInfoUser                                                         |          2 |        509 |          1 |         52 |        562 |
+| pages\Profile\ChangePassword                                                         |          2 |        156 |          0 |         20 |        176 |
+| pages\Profile\HomeProfile                                                            |          2 |         58 |          0 |         12 |         70 |
+| pages\Profile\ListOrdered                                                            |          2 |        112 |          0 |         14 |        126 |
+| pages\Register                                                                       |          2 |        224 |          0 |         24 |        248 |
+| pages\Search                                                                         |          2 |        145 |          0 |         21 |        166 |
+| pages\commom                                                                         |          6 |        512 |          2 |         75 |        589 |
+| pages\commom\Footer                                                                  |          2 |        130 |          0 |         20 |        150 |
+| pages\commom\Header                                                                  |          2 |        298 |          2 |         44 |        344 |
+| pages\commom\Item                                                                    |          2 |         84 |          0 |         11 |         95 |
+| redux                                                                                |         22 |      1,716 |         25 |        165 |      1,906 |
+| redux\actions                                                                        |          8 |        149 |          1 |         25 |        175 |
+| redux\actions\admin                                                                  |          4 |         19 |          0 |          2 |         21 |
+| redux\actions\user                                                                   |          3 |        123 |          0 |         22 |        145 |
+| redux\reducers                                                                       |          7 |        814 |          9 |         82 |        905 |
+| redux\reducers\admin                                                                 |          3 |        137 |          0 |         14 |        151 |
+| redux\reducers\user                                                                  |          3 |        662 |          8 |         65 |        735 |
+| redux\saga                                                                           |          7 |        753 |         15 |         58 |        826 |
+| redux\saga\admin                                                                     |          4 |        133 |          8 |         21 |        162 |
+| redux\saga\user                                                                      |          2 |        607 |          6 |         33 |        646 |
+| services                                                                             |          2 |         22 |          0 |          0 |         22 |
+| utils                                                                                |          1 |          4 |          0 |          5 |          9 |
++--------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++--------------------------------------------------------------------------------------+------------------+------------+------------+------------+------------+
+| filename                                                                             | language         | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------+------------------+------------+------------+------------+------------+
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\App.css                                     | CSS              |         33 |          0 |          6 |         39 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\App.js                                      | JavaScript       |          9 |          0 |          3 |         12 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\App.test.js                                 | JavaScript       |          7 |          0 |          2 |          9 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\SwitchRoute.jsx                             | JavaScript React |         52 |          2 |          8 |         62 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\constants\app.js                            | JavaScript       |          1 |          0 |          0 |          1 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\index.css                                   | CSS              |         12 |          0 |          2 |         14 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\index.js                                    | JavaScript       |         23 |          0 |         10 |         33 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\logo.svg                                    | XML              |          1 |          0 |          0 |          1 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Admin\Common\Header\Index.jsx         | JavaScript React |         41 |          0 |          4 |         45 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Admin\Common\Header\style.css         | CSS              |        155 |          2 |         31 |        188 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Admin\Common\SideBarContent\Index.js  | JavaScript       |         37 |          0 |          1 |         38 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Admin\Common\SideBar\Index.jsx        | JavaScript React |         31 |          0 |          4 |         35 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Admin\Common\SideBar\style.css        | CSS              |         30 |          0 |          7 |         37 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Admin\Dashboard\Index.jsx             | JavaScript React |         16 |          0 |          3 |         19 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Admin\Dashboard\style.css             | CSS              |          0 |          0 |          1 |          1 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Admin\LoginAdmin\Index.jsx            | JavaScript React |        102 |          0 |         11 |        113 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Admin\LoginAdmin\style.css            | CSS              |         70 |          0 |         14 |         84 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Admin\ManagerOrderHistories\Index.jsx | JavaScript React |         16 |          1 |          3 |         20 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Admin\ManagerOrderHistories\style.css | CSS              |          0 |          0 |          1 |          1 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Admin\ManagerProducts\Index.jsx       | JavaScript React |         87 |          1 |          9 |         97 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Admin\ManagerProducts\style.css       | CSS              |         20 |          0 |          5 |         25 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Admin\ManagerUser\Index.jsx           | JavaScript React |         33 |          0 |          4 |         37 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Admin\ManagerUser\style.css           | CSS              |          0 |          0 |          1 |          1 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Cart\Index.jsx                        | JavaScript React |        211 |          0 |          9 |        220 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Cart\style.css                        | CSS              |        143 |          0 |         22 |        165 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\ForgotPassword\Index.jsx              | JavaScript React |        341 |          1 |         38 |        380 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\ForgotPassword\style.css              | CSS              |         66 |          0 |         13 |         79 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Home\Index.jsx                        | JavaScript React |        203 |          2 |         17 |        222 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Home\style.css                        | CSS              |         50 |          0 |         11 |         61 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Login\Index.jsx                       | JavaScript React |        117 |          0 |         15 |        132 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Login\style.css                       | CSS              |         60 |          0 |         12 |         72 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\OrderSuccess\Index.jsx                | JavaScript React |         24 |          0 |          5 |         29 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\OrderSuccess\style.css                | CSS              |         18 |          0 |          3 |         21 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Payment\Index.jsx                     | JavaScript React |        390 |          1 |         33 |        424 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Payment\style.css                     | CSS              |        151 |          2 |         29 |        182 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\ProductDetail\Index.jsx               | JavaScript React |        351 |          0 |         25 |        376 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\ProductDetail\style.css               | CSS              |        148 |          0 |         34 |        182 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Profile\ChangeInfoUser\Index.jsx      | JavaScript React |        408 |          1 |         34 |        443 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Profile\ChangeInfoUser\style.css      | CSS              |        101 |          0 |         18 |        119 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Profile\ChangePassword\Index.jsx      | JavaScript React |        126 |          0 |         13 |        139 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Profile\ChangePassword\style.css      | CSS              |         30 |          0 |          7 |         37 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Profile\HomeProfile\Index.jsx         | JavaScript React |         58 |          0 |         11 |         69 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Profile\HomeProfile\style.css         | CSS              |          0 |          0 |          1 |          1 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Profile\ListOrdered\Index.jsx         | JavaScript React |        102 |          0 |         13 |        115 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Profile\ListOrdered\style.css         | CSS              |         10 |          0 |          1 |         11 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Register\Index.jsx                    | JavaScript React |        200 |          0 |         19 |        219 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Register\style.css                    | CSS              |         24 |          0 |          5 |         29 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Search\Index.jsx                      | JavaScript React |        120 |          0 |         16 |        136 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Search\style.css                      | CSS              |         25 |          0 |          5 |         30 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\commom\Footer\Index.jsx               | JavaScript React |        104 |          0 |         15 |        119 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\commom\Footer\style.css               | CSS              |         26 |          0 |          5 |         31 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\commom\Header\Index.jsx               | JavaScript React |        126 |          2 |         11 |        139 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\commom\Header\style.css               | CSS              |        172 |          0 |         33 |        205 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\commom\Item\Index.jsx                 | JavaScript React |         59 |          0 |          6 |         65 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\commom\Item\style.css                 | CSS              |         25 |          0 |          5 |         30 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\redux\actions\admin\auth.action.js          | JavaScript       |          6 |          0 |          1 |          7 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\redux\actions\admin\order.action.js         | JavaScript       |          0 |          0 |          1 |          1 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\redux\actions\admin\product.action.js       | JavaScript       |          6 |          0 |          0 |          6 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\redux\actions\admin\user.action.js          | JavaScript       |          7 |          0 |          0 |          7 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\redux\actions\index.js                      | JavaScript       |          7 |          1 |          1 |          9 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\redux\actions\user\auth.action.js           | JavaScript       |         50 |          0 |         12 |         62 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\redux\actions\user\cart.actions.js          | JavaScript       |         30 |          0 |          4 |         34 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\redux\actions\user\product.action.js        | JavaScript       |         43 |          0 |          6 |         49 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\redux\reducers\admin\auth.reducer.js        | JavaScript       |         46 |          0 |          5 |         51 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\redux\reducers\admin\product.reducer.js     | JavaScript       |         48 |          0 |          5 |         53 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\redux\reducers\admin\user.reducer.js        | JavaScript       |         43 |          0 |          4 |         47 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\redux\reducers\index.js                     | JavaScript       |         15 |          1 |          3 |         19 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\redux\reducers\user\auth.reducer.js         | JavaScript       |        186 |          2 |         21 |        209 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\redux\reducers\user\cart.reducer.js         | JavaScript       |        219 |          1 |         21 |        241 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\redux\reducers\user\product.reducer.js      | JavaScript       |        257 |          5 |         23 |        285 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\redux\saga\admin\auth.saga.js               | JavaScript       |         65 |          0 |          8 |         73 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\redux\saga\admin\order.saga.js              | JavaScript       |          0 |          0 |          1 |          1 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\redux\saga\admin\product.saga.js            | JavaScript       |         37 |          0 |          6 |         43 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\redux\saga\admin\user.saga.js               | JavaScript       |         31 |          8 |          6 |         45 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\redux\saga\index.js                         | JavaScript       |         13 |          1 |          4 |         18 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\redux\saga\user\auth.saga.js                | JavaScript       |        389 |          0 |         20 |        409 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\redux\saga\user\product.saga.js             | JavaScript       |        218 |          6 |         13 |        237 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\reportWebVitals.js                          | JavaScript       |         12 |          0 |          2 |         14 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\services\auth-header-admin.js               | JavaScript       |         11 |          0 |          0 |         11 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\services\auth-header.js                     | JavaScript       |         11 |          0 |          0 |         11 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\setupTests.js                               | JavaScript       |          1 |          4 |          1 |          6 |
+| d:\CONG_NGHE_WEB\BTProject\front-end\src\utils\history.js                            | JavaScript       |          4 |          0 |          5 |          9 |
+| Total                                                                                |                  |      6,520 |         44 |        787 |      7,351 |
++--------------------------------------------------------------------------------------+------------------+------------+------------+------------+------------+

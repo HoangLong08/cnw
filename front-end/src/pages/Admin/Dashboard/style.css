@@ -1,0 +1,187 @@
+.wrap-top-dashboard-admin {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.content-total-sale-dashboard-admin {
+  color: white;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px 32px;
+  background: linear-gradient(to right, #ffbf96, #fe7096);
+  border-radius: 8px;
+}
+
+.content-total-sale-dashboard-admin div {
+  margin-right: 60px;
+}
+
+.content-total-sale-dashboard-admin h3 {
+  color: white;
+  font-size: 28px;
+}
+
+.content-total-sale-dashboard-admin div p {
+  font-size: 24px;
+}
+
+.content-total-sale-dashboard-admin p .fas {
+  font-size: 30px;
+}
+
+.content-total-order-dashboard-admin {
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px 32px;
+  background: linear-gradient(to right, #90caf9, #047edf 99%);
+  border-radius: 8px;
+}
+
+.content-total-order-dashboard-admin div {
+  margin-right: 60px;
+}
+
+.content-total-order-dashboard-admin h3 {
+  color: white;
+  font-size: 28px;
+}
+
+.content-total-order-dashboard-admin div p {
+  font-size: 24px;
+}
+
+.content-total-order-dashboard-admin p .fas {
+  font-size: 30px;
+}
+
+.content-total-customer-dashboard-admin {
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px 32px;
+  background: linear-gradient(to right, #84d9d2, #07cdae);
+  border-radius: 8px;
+}
+
+.content-total-customer-dashboard-admin div {
+  margin-right: 60px;
+}
+
+.content-total-customer-dashboard-admin h3 {
+  color: white;
+  font-size: 28px;
+}
+
+.content-total-customer-dashboard-admin div p {
+  font-size: 24px;
+}
+
+.content-total-customer-dashboard-admin p .fas {
+  font-size: 30px;
+}
+
+.wrap-bottom-dashboard-admin {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.content-table-top-customer,
+.content-table-top-sale {
+  background-color: white;
+  border-radius: 8px;
+  padding: 12px;
+}
+
+.content-table-top-customer,
+.content-table-top-sale table {
+  border-collapse: collapse;
+}
+
+.content-table-top-sale table .thead .tr-table {
+  background-color: #e6eaec;
+  font-weight: bold;
+}
+
+.content-table-top-customer table .thead .tr-table {
+  font-weight: bold;
+  background-color: #e6eaec;
+}
+
+.tr-table {
+  padding: 8px 4px;
+}
+
+.content-table-top-sale h1 {
+  margin-bottom: 12px;
+}
+
+.content-table-top-customer h1 {
+  margin-bottom: 12px;
+}
+
+.content-table-top-customer table {
+  border-collapse: collapse;
+  /* box-shadow: 0 5px 10px #e1e5ee; */
+  background-color: white;
+  overflow: hidden;
+  width: 100%;
+}
+
+.content-table-top-sale table {
+  border-collapse: collapse;
+  /* box-shadow: 0 5px 10px #e1e5ee; */
+  background-color: white;
+  overflow: hidden;
+  width: 100%;
+}
+
+td {
+  padding: 1rem 1.8rem;
+}
+
+.status {
+  border-radius: 0.2rem;
+  background-color: red;
+  padding: 0.2rem 1rem;
+  text-align: center;
+}
+.status-pending {
+  background-color: #fff0c2;
+  color: #a68b00;
+}
+
+.status-paid {
+  background-color: #c8e6c9;
+  color: #388e3c;
+}
+
+.status-unpaid {
+  background-color: #ffcdd2;
+  color: #c62828;
+}
+
+.amount {
+  text-align: right;
+}
+
+tr:nth-child(even) {
+  background-color: #f4f6fb;
+}
+
+.truncate p {
+  width: 100px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.text-nowrap p {
+  white-space: nowrap;
+}

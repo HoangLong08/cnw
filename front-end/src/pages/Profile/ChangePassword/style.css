@@ -1,0 +1,36 @@
+.wrap-change-password {
+  margin: 0 auto;
+  width: 50%;
+}
+
+.form-change-password {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.form-change-password input {
+  width: 75%;
+}
+
+.content-change-password {
+  margin-top: 12px;
+}
+
+.btn-change-pass {
+  width: 100%;
+  padding: 12px;
+  background-color: #777474;
+  color: white;
+  font-weight: bold;
+  border: none;
+  cursor: pointer;
+}
+
+.btn-change-pass:hover {
+  background-color: #5f5757;
+}
+
+.error-change-password {
+  margin-left: calc(100% - 75%);
+}

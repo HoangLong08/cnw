@@ -1,0 +1,29 @@
+.wrap-item {
+  padding: 12px;
+  position: relative;
+}
+
+.item-price {
+  display: flex;
+}
+
+.item-price p {
+  color: #eb3939;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.item-price-sale {
+  font-size: 12px !important;
+  color: #797979 !important;
+}
+
+.item-sale {
+  position: absolute;
+  top: 20px;
+  left: 0;
+  background-color: red;
+  font-size: 12px;
+  padding: 4px 8px;
+  color: white;
+}

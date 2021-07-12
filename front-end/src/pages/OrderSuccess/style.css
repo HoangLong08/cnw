@@ -1,0 +1,20 @@
+.wrap-order-success {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: 20px 0;
+}
+
+.btn-order-success {
+  padding: 12px;
+  background-color: #777474;
+  color: white;
+  font-weight: bold;
+  border: none;
+  cursor: pointer;
+}
+
+.btn-order-success:hover {
+  background-color: #5f5757;
+}

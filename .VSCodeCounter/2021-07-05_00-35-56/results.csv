@@ -1,0 +1,29 @@
+"filename", "language", "Python", "pip requirements", "Docker", "SQL", "comment", "blank", "total"
+"d:\CONG_NGHE_WEB\BTProject\back-end\bep\CrawData.py", "Python", 88, 0, 0, 0, 4, 10, 102
+"d:\CONG_NGHE_WEB\BTProject\back-end\bep\Dockerfile", "Docker", 0, 0, 9, 0, 0, 0, 9
+"d:\CONG_NGHE_WEB\BTProject\back-end\bep\SendMail\TestSendEmail.py", "Python", 10, 0, 0, 0, 0, 1, 11
+"d:\CONG_NGHE_WEB\BTProject\back-end\bep\SendMail\__init__.py", "Python", 4, 0, 0, 0, 1, 0, 5
+"d:\CONG_NGHE_WEB\BTProject\back-end\bep\SendMail\app.py", "Python", 6, 0, 0, 0, 2, 0, 8
+"d:\CONG_NGHE_WEB\BTProject\back-end\bep\__init__.py", "Python", 0, 0, 0, 0, 0, 1, 1
+"d:\CONG_NGHE_WEB\BTProject\back-end\bep\app.py", "Python", 745, 0, 0, 0, 27, 83, 855
+"d:\CONG_NGHE_WEB\BTProject\back-end\bep\configdb\Dockerfile", "Docker", 0, 0, 9, 0, 0, 0, 9
+"d:\CONG_NGHE_WEB\BTProject\back-end\bep\configdb\__init__.py", "Python", 0, 0, 0, 0, 0, 1, 1
+"d:\CONG_NGHE_WEB\BTProject\back-end\bep\configdb\connectdb.py", "Python", 51, 0, 0, 0, 6, 5, 62
+"d:\CONG_NGHE_WEB\BTProject\back-end\bep\configdb\footwear_db.sql", "SQL", 0, 0, 0, 12806, 320, 162, 13288
+"d:\CONG_NGHE_WEB\BTProject\back-end\bep\controllers\__init__.py", "Python", 0, 0, 0, 0, 0, 1, 1
+"d:\CONG_NGHE_WEB\BTProject\back-end\bep\controllers\admins_controller.py", "Python", 110, 0, 0, 0, 1, 8, 119
+"d:\CONG_NGHE_WEB\BTProject\back-end\bep\controllers\city_controller.py", "Python", 16, 0, 0, 0, 0, 1, 17
+"d:\CONG_NGHE_WEB\BTProject\back-end\bep\controllers\customer_controller.py", "Python", 120, 0, 0, 0, 0, 11, 131
+"d:\CONG_NGHE_WEB\BTProject\back-end\bep\controllers\districts_controller.py", "Python", 16, 0, 0, 0, 0, 1, 17
+"d:\CONG_NGHE_WEB\BTProject\back-end\bep\controllers\forgotpassword_controller.py", "Python", 59, 0, 0, 0, 3, 1, 63
+"d:\CONG_NGHE_WEB\BTProject\back-end\bep\controllers\order_controller.py", "Python", 142, 0, 0, 0, 7, 7, 156
+"d:\CONG_NGHE_WEB\BTProject\back-end\bep\controllers\orther_controller.py", "Python", 43, 0, 0, 0, 0, 2, 45
+"d:\CONG_NGHE_WEB\BTProject\back-end\bep\controllers\products_controller.py", "Python", 248, 0, 0, 0, 12, 10, 270
+"d:\CONG_NGHE_WEB\BTProject\back-end\bep\controllers\streets_controller.py", "Python", 16, 0, 0, 0, 0, 1, 17
+"d:\CONG_NGHE_WEB\BTProject\back-end\bep\models\__init__.py", "Python", 0, 0, 0, 0, 0, 1, 1
+"d:\CONG_NGHE_WEB\BTProject\back-end\bep\models\admins_model.py", "Python", 32, 0, 0, 0, 0, 1, 33
+"d:\CONG_NGHE_WEB\BTProject\back-end\bep\models\customers_model.py", "Python", 32, 0, 0, 0, 0, 1, 33
+"d:\CONG_NGHE_WEB\BTProject\back-end\bep\models\orders_model.py", "Python", 19, 0, 0, 0, 0, 1, 20
+"d:\CONG_NGHE_WEB\BTProject\back-end\bep\models\products_model.py", "Python", 37, 0, 0, 0, 0, 1, 38
+"d:\CONG_NGHE_WEB\BTProject\back-end\bep\requirements.txt", "pip requirements", 0, 8, 0, 0, 0, 1, 9
+"Total", "-", 1794, 8, 18, 12806, 383, 312, 15321

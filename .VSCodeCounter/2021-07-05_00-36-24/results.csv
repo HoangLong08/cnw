@@ -1,0 +1,85 @@
+"filename", "language", "JavaScript React", "JavaScript", "CSS", "XML", "comment", "blank", "total"
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\App.css", "CSS", 0, 0, 33, 0, 0, 6, 39
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\App.js", "JavaScript", 0, 9, 0, 0, 0, 3, 12
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\App.test.js", "JavaScript", 0, 7, 0, 0, 0, 2, 9
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\SwitchRoute.jsx", "JavaScript React", 52, 0, 0, 0, 2, 8, 62
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\constants\app.js", "JavaScript", 0, 1, 0, 0, 0, 0, 1
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\index.css", "CSS", 0, 0, 12, 0, 0, 2, 14
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\index.js", "JavaScript", 0, 23, 0, 0, 0, 10, 33
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\logo.svg", "XML", 0, 0, 0, 1, 0, 0, 1
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Admin\Common\Header\Index.jsx", "JavaScript React", 59, 0, 0, 0, 0, 5, 64
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Admin\Common\Header\style.css", "CSS", 0, 0, 190, 0, 5, 36, 231
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Admin\Common\SideBarContent\Index.js", "JavaScript", 0, 37, 0, 0, 0, 1, 38
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Admin\Common\SideBar\Index.jsx", "JavaScript React", 31, 0, 0, 0, 0, 4, 35
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Admin\Common\SideBar\style.css", "CSS", 0, 0, 30, 0, 0, 7, 37
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Admin\Dashboard\Index.jsx", "JavaScript React", 16, 0, 0, 0, 0, 3, 19
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Admin\Dashboard\style.css", "CSS", 0, 0, 0, 0, 0, 1, 1
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Admin\LoginAdmin\Index.jsx", "JavaScript React", 102, 0, 0, 0, 0, 11, 113
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Admin\LoginAdmin\style.css", "CSS", 0, 0, 70, 0, 0, 14, 84
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Admin\ManagerOrderHistories\Index.jsx", "JavaScript React", 159, 0, 0, 0, 1, 16, 176
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Admin\ManagerOrderHistories\style.css", "CSS", 0, 0, 0, 0, 0, 1, 1
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Admin\ManagerProducts\Index.jsx", "JavaScript React", 87, 0, 0, 0, 1, 9, 97
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Admin\ManagerProducts\style.css", "CSS", 0, 0, 20, 0, 0, 5, 25
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Admin\ManagerUser\Index.jsx", "JavaScript React", 148, 0, 0, 0, 6, 13, 167
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Admin\ManagerUser\style.css", "CSS", 0, 0, 21, 0, 0, 5, 26
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Cart\Index.jsx", "JavaScript React", 211, 0, 0, 0, 0, 10, 221
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Cart\style.css", "CSS", 0, 0, 143, 0, 0, 22, 165
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\ForgotPassword\Index.jsx", "JavaScript React", 339, 0, 0, 0, 0, 38, 377
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\ForgotPassword\style.css", "CSS", 0, 0, 66, 0, 0, 13, 79
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Home\Index.jsx", "JavaScript React", 203, 0, 0, 0, 2, 17, 222
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Home\style.css", "CSS", 0, 0, 50, 0, 0, 11, 61
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Login\Index.jsx", "JavaScript React", 117, 0, 0, 0, 0, 15, 132
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Login\style.css", "CSS", 0, 0, 60, 0, 0, 12, 72
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\OrderSuccess\Index.jsx", "JavaScript React", 24, 0, 0, 0, 0, 5, 29
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\OrderSuccess\style.css", "CSS", 0, 0, 18, 0, 0, 3, 21
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Payment\Index.jsx", "JavaScript React", 390, 0, 0, 0, 1, 33, 424
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Payment\style.css", "CSS", 0, 0, 151, 0, 2, 29, 182
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\ProductDetail\Index.jsx", "JavaScript React", 351, 0, 0, 0, 0, 25, 376
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\ProductDetail\style.css", "CSS", 0, 0, 148, 0, 0, 34, 182
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Profile\ChangeInfoUser\Index.jsx", "JavaScript React", 408, 0, 0, 0, 1, 34, 443
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Profile\ChangeInfoUser\style.css", "CSS", 0, 0, 101, 0, 0, 18, 119
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Profile\ChangePassword\Index.jsx", "JavaScript React", 126, 0, 0, 0, 0, 13, 139
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Profile\ChangePassword\style.css", "CSS", 0, 0, 30, 0, 0, 7, 37
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Profile\HomeProfile\Index.jsx", "JavaScript React", 58, 0, 0, 0, 0, 11, 69
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Profile\HomeProfile\style.css", "CSS", 0, 0, 0, 0, 0, 1, 1
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Profile\ListOrdered\Index.jsx", "JavaScript React", 102, 0, 0, 0, 0, 13, 115
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Profile\ListOrdered\style.css", "CSS", 0, 0, 10, 0, 0, 1, 11
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Register\Index.jsx", "JavaScript React", 200, 0, 0, 0, 0, 19, 219
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Register\style.css", "CSS", 0, 0, 24, 0, 0, 5, 29
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Search\Index.jsx", "JavaScript React", 121, 0, 0, 0, 0, 16, 137
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\Search\style.css", "CSS", 0, 0, 25, 0, 0, 5, 30
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\commom\Footer\Index.jsx", "JavaScript React", 104, 0, 0, 0, 0, 15, 119
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\commom\Footer\style.css", "CSS", 0, 0, 26, 0, 0, 5, 31
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\commom\Header\Index.jsx", "JavaScript React", 126, 0, 0, 0, 2, 11, 139
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\commom\Header\style.css", "CSS", 0, 0, 172, 0, 0, 33, 205
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\commom\Item\Index.jsx", "JavaScript React", 59, 0, 0, 0, 0, 6, 65
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\pages\commom\Item\style.css", "CSS", 0, 0, 25, 0, 0, 5, 30
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\redux\actions\admin\auth.action.js", "JavaScript", 0, 20, 0, 0, 0, 3, 23
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\redux\actions\admin\order.action.js", "JavaScript", 0, 13, 0, 0, 0, 1, 14
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\redux\actions\admin\product.action.js", "JavaScript", 0, 6, 0, 0, 0, 0, 6
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\redux\actions\admin\user.action.js", "JavaScript", 0, 7, 0, 0, 0, 0, 7
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\redux\actions\index.js", "JavaScript", 0, 7, 0, 0, 1, 1, 9
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\redux\actions\user\auth.action.js", "JavaScript", 0, 51, 0, 0, 0, 12, 63
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\redux\actions\user\cart.actions.js", "JavaScript", 0, 30, 0, 0, 0, 4, 34
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\redux\actions\user\product.action.js", "JavaScript", 0, 43, 0, 0, 0, 6, 49
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\redux\reducers\admin\auth.reducer.js", "JavaScript", 0, 118, 0, 0, 2, 10, 130
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\redux\reducers\admin\order.reducer.js", "JavaScript", 0, 79, 0, 0, 1, 7, 87
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\redux\reducers\admin\product.reducer.js", "JavaScript", 0, 48, 0, 0, 0, 5, 53
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\redux\reducers\admin\user.reducer.js", "JavaScript", 0, 43, 0, 0, 0, 4, 47
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\redux\reducers\index.js", "JavaScript", 0, 17, 0, 0, 1, 3, 21
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\redux\reducers\user\auth.reducer.js", "JavaScript", 0, 186, 0, 0, 2, 21, 209
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\redux\reducers\user\cart.reducer.js", "JavaScript", 0, 219, 0, 0, 1, 21, 241
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\redux\reducers\user\product.reducer.js", "JavaScript", 0, 257, 0, 0, 5, 23, 285
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\redux\saga\admin\auth.saga.js", "JavaScript", 0, 142, 0, 0, 0, 20, 162
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\redux\saga\admin\order.saga.js", "JavaScript", 0, 82, 0, 0, 2, 8, 92
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\redux\saga\admin\product.saga.js", "JavaScript", 0, 37, 0, 0, 0, 6, 43
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\redux\saga\admin\user.saga.js", "JavaScript", 0, 31, 0, 0, 8, 6, 45
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\redux\saga\index.js", "JavaScript", 0, 15, 0, 0, 1, 4, 20
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\redux\saga\user\auth.saga.js", "JavaScript", 0, 389, 0, 0, 1, 22, 412
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\redux\saga\user\product.saga.js", "JavaScript", 0, 218, 0, 0, 6, 13, 237
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\reportWebVitals.js", "JavaScript", 0, 12, 0, 0, 0, 2, 14
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\services\auth-header-admin.js", "JavaScript", 0, 11, 0, 0, 0, 0, 11
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\services\auth-header.js", "JavaScript", 0, 11, 0, 0, 0, 0, 11
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\setupTests.js", "JavaScript", 0, 1, 0, 0, 4, 1, 6
+"d:\CONG_NGHE_WEB\BTProject\front-end\src\utils\history.js", "JavaScript", 0, 4, 0, 0, 0, 5, 9
+"Total", "-", 3593, 2174, 1425, 1, 58, 855, 8106

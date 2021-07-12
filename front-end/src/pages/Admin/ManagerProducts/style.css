@@ -1,0 +1,31 @@
+.item-image-admin img {
+  width: 42px;
+  height: 42px;
+  object-fit: cover;
+}
+
+.action-product-admin {
+  display: flex;
+  align-items: center;
+}
+
+.action-product-admin div {
+  margin-left: 2px;
+}
+
+.action-product-admin button {
+  padding: 4px 8px;
+  background-color: #44a1ec;
+  border: none;
+}
+
+.action-product-admin button .fas {
+  color: white;
+}
+
+.content-image-admin img {
+  width: 62px;
+  height: 62px;
+  object-fit: cover;
+  margin: 0 12px;
+}

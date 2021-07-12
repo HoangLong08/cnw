@@ -1,0 +1,83 @@
+.wrap-login-admin {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f2f3f5;
+  padding: 20px 0;
+  height: 100vh;
+}
+
+.content-login-admin {
+  padding: 20px;
+  background-color: white;
+  border-radius: 4px;
+}
+
+.content-login-admin h3 {
+  text-align: center;
+}
+
+.form-groups-admin {
+  margin: 12px 0;
+}
+
+.form-groups-admin input {
+  padding: 8px 16px;
+  width: 300px;
+
+  display: block;
+  line-height: 25px;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: inherit;
+  border-radius: 6px;
+  border: 1px solid #cdd9ed;
+  transition: border 0.3s ease;
+}
+
+.form-groups-admin input:focus {
+  outline: none;
+  border-color: #4370f8;
+}
+
+.form-groups-admin .error {
+  margin-left: 8px;
+  color: red;
+}
+
+.form-group-button-admin {
+  text-align: center;
+  width: 100%;
+  margin-top: 24px;
+}
+
+.form-group-button-admin button {
+  width: 100%;
+  background-color: #8f8c8c;
+  outline: none;
+  border: none;
+  color: white;
+  padding: 8px 0;
+}
+
+.form-group-button-admin button:hover {
+  background-color: #757171;
+}
+
+.form-groups-bonus-admin {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 12px;
+}
+
+.form-password-admin {
+  position: relative;
+}
+
+.eye-password-icon-admin {
+  position: absolute;
+  top: 35%;
+  right: 12px;
+  cursor: pointer;
+}

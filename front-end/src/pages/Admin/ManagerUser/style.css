@@ -1,0 +1,25 @@
+.item-avatar-admin img {
+  width: 42px;
+  height: 42px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.action-user-admin {
+  display: flex;
+  align-items: center;
+}
+
+.action-user-admin div {
+  margin-left: 2px;
+}
+
+.action-user-admin button {
+  padding: 4px 8px;
+  background-color: #44a1ec;
+  border: none;
+}
+
+.action-user-admin button .fas {
+  color: white;
+}

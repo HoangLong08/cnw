@@ -1,0 +1,58 @@
+.option-size-admin {
+  margin-bottom: 12px;
+}
+
+.option-size-admin input {
+  padding: 8px 16px;
+  width: 100px;
+
+  line-height: 25px;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: inherit;
+  border-radius: 6px;
+  border: 1px solid #cdd9ed;
+  transition: border 0.3s ease;
+}
+
+.option-size-admin input:nth-child(2) {
+  width: 196px;
+  margin-left: 4px;
+}
+
+.option-size-admin button {
+  border: none;
+  margin-left: 12px;
+  padding: 8px 10px;
+}
+
+.option-size-admin .remove-btn {
+  background-color: red;
+}
+
+.option-size-admin .remove-btn .fas {
+  color: white;
+}
+
+.option-size-admin .add-btn {
+  background-color: #44a1ec;
+}
+
+.option-size-admin .add-btn .fas {
+  color: white;
+}
+
+.wrap-ckeditor-edit-admin {
+  width: 100%;
+  padding: 8px;
+}
+
+.item-image-option-admin {
+  margin-bottom: 12px;
+}
+
+.item-image-option-admin img {
+  width: 62px;
+  height: 62px;
+  object-fit: cover;
+}

@@ -1,0 +1,181 @@
+.wrap-detail {
+  padding: 12px 40px;
+}
+
+.wrap-detail-info {
+  padding-left: 20px !important;
+}
+
+.wrap-detail-info div {
+  margin-bottom: 20px;
+}
+
+.thumbnail-image {
+  margin-bottom: 12px;
+}
+
+.div-color {
+  padding: 12px 0;
+}
+
+.thumbnail-image {
+  cursor: pointer;
+}
+
+.detail-list-image img {
+  width: 100%;
+  height: 100%;
+}
+
+.detail-image-main {
+  position: relative;
+}
+
+.detail-image-main img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.detail-product-sale {
+  position: absolute;
+  top: 20px;
+  left: 0;
+  background-color: #eb3939;
+  padding: 8px 16px;
+  color: white;
+}
+
+.product-detail-toolbar {
+  padding: 20px 0;
+}
+
+.menu-toolbar {
+  display: flex;
+}
+
+.menu-toolbar li {
+  font-size: 12px;
+  color: #909097;
+}
+
+.menu-toolbar li:nth-child(even) {
+  margin: 0px 20px;
+}
+
+.detail-color {
+  display: flex;
+}
+
+.detail-color .thumbnail-color {
+  margin-right: 12px;
+  cursor: pointer;
+}
+
+.detail-color .thumbnail-color img {
+  width: 62px;
+  height: 62px;
+  object-fit: cover;
+}
+
+.lable {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.lable p {
+  color: #eb3939;
+  cursor: pointer;
+}
+
+.detail-price p span {
+  font-size: 32px;
+  color: #eb3939;
+}
+
+.detail-price p span:first-child {
+  color: #777474;
+  font-size: 20px;
+}
+
+.detail-size {
+  display: flex;
+}
+
+.detail-size .thumbnail-size {
+  border: 1px solid black;
+  border-radius: 4px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 8px 12px;
+  margin-right: 12px;
+  cursor: pointer;
+  position: relative;
+}
+
+.active-thumbnail-size {
+  background-color: #909097;
+  color: white;
+}
+
+.thumbnail-quanity {
+  position: absolute;
+  top: -30px;
+  right: -10px;
+  display: none;
+  background-color: #999595;
+  color: white;
+  padding: 4px;
+  border-radius: 4px;
+}
+
+.thumbnail-quanity p {
+  white-space: nowrap;
+}
+
+.detail-size .thumbnail-size:hover .thumbnail-quanity {
+  display: block;
+}
+
+.btn-buy {
+  width: 100%;
+  padding: 12px;
+  background-color: #777474;
+  color: white;
+  font-weight: bold;
+  border: none;
+  cursor: pointer;
+}
+
+.btn-buy:hover {
+  background-color: #5f5757;
+}
+
+.detail-title-div {
+  margin-top: 20px;
+}
+
+.detail-title-div h3 {
+  text-align: center;
+  font-size: 24px;
+}
+
+.des-product-content img {
+  width: 100%;
+  height: 100%;
+}
+
+.des-product-content noscript + img {
+  display: none;
+}
+
+.view-more .btn-more {
+  width: 100%;
+  background-color: #999595;
+  border: none;
+  cursor: pointer;
+  padding: 12px 0;
+  color: white;
+}
